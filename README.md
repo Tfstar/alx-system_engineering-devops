@@ -1,2 +1,1 @@
-The shell journey.
-A journey to success
+The shell journey, a journey to success
