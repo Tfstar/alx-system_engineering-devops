@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod owner
+chown hello betty
